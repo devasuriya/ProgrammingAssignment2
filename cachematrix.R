@@ -1,3 +1,5 @@
+## Overall assignment is to write a pair of functions that cache the inverse of a matrix
+
 ## Function that Creates a special "matrix" object that can cache its inverse
  
 
